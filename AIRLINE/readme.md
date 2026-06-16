@@ -1,0 +1,1 @@
+This dashboard consists of Airline data, and it uses Bar chart to represent each data, Line chart to represent Monthly trends, and Pie charts also. It uses KPI cards to display total flight and percentages.
